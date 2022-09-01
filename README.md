@@ -1,0 +1,2 @@
+# Algoritmos-Y-Programacion-II--TP2-Simulador-De-Entrenamiento-De-Pokemones
+Este TP consiste en replicar un sistema de atención a Pokemones para un hospital utilizano diversos tipos de datos abstractos que me fueron enseñados en Algoritmos y Programación II, todo el código está escrito en C. Para más información leer el PDF en Consigna/2021_2C_TP2_Algo2.pdf y / TP2 - Informe - Lucas Franciulli.pdf.
